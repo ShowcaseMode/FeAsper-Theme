@@ -2,7 +2,7 @@
 A resource pack that I made using some other packs as well as adding and modifying a lot of it myself.
 
 <h3> How to edit this pack </h3>
-<h5> STEP (1): </h5> Finding... the packs on Runelite are located in this path ( C:\Users\Micro\.runelite\resource-packs-repository )
+<h4> STEP (1): </h4> Finding... the packs on Runelite are located in this path ( C:\Users\Micro\.runelite\resource-packs-repository )
 <br></br>
 <b> EXCEPTIONS 1 </b> the ( C: ) is called a drive yours might look like this ( D: ) ( E:) ( F:) etc...
 <br></br>
